@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include "avion.hpp"
 
-// Constante
+// Constantes
 extern const unsigned int LARGEUR; // Largeur de la fenêtre
 extern const unsigned int HAUTEUR; // Hauteur de la fenêtre
 extern float ECHELLE; // Facteur d'échelle pour convertir les km en pixels
